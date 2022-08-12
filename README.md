@@ -27,15 +27,15 @@ User can create unlimited group and private messages.
 **Database:** Mongo DB
 
 ## How to run locally
-**As for security purposes, it's a common practice that no one upload their crusial credentials and dotenv file.
-So, for using it,create dotenv file and put essential references like,**
+**As for security reason, it's a common practice that no one upload their crusial credentials and dotenv file.
+So, for using it,create a dotenv file in main directory(chatgaiya-chatapp/) and put essential references like,**
 ```
   PORT=5000
   MONGO_URI=
   JWT_SECRET=
   MODE_ENV=
 ```
-  after equal sign paste your secret value without any spaces.**
+  **after equal sign paste your secret values without any spaces. As of now, you understood that you need to make a mongodb atlas account and a cluster for URI, if you're a beginner then you could use online help**
   
 **Clone the project**
 ```
