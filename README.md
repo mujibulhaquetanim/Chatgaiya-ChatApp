@@ -53,5 +53,6 @@ yarn install
 cd ..
 >npm start
 ```
-*** Enjoy ***
-  This porject is youtube inspired and made solely for Learning purposes not for any serious jobs.
+** Enjoy **
+
+This porject is youtube inspired and made solely for Learning purposes not for any serious job.
