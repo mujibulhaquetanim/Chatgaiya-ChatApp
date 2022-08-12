@@ -13,19 +13,24 @@ This app is made for Learning purposes not for any serious jobs.
 
 ## How to run locally
 **Clone the project**
-``` https://github.com/mujibultanim/Chatgaiya-ChatApp.git
+```
+https://github.com/mujibultanim/Chatgaiya-ChatApp
 ```
 **Go to the project folder**
-```cd Chatgaiya-Chatapp```
+```
+cd Chatgaiya-Chatapp
+```
 **install dependencies:
 ```npm install
 ```
 then,
-```cd frontend
->yarn install
+```
+cd frontend
+yarn install
 ```
 **Start the server**
-```cd ..
+```
+cd ..
 >npm start
 ```
 **As for security purposes, it's a common practice that no one upload their crusial credentials and dotenv file.
