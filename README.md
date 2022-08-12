@@ -28,7 +28,7 @@ User can create unlimited group and private messages.
 
 ## How to run locally
 **As for security purposes, it's a common practice that no one upload their crusial credentials and dotenv file.
-So, for using it,create dotenv file and put essential references like,
+So, for using it,create dotenv file and put essential references like,**
 ```
   PORT=5000
   MONGO_URI=
