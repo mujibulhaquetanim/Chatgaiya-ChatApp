@@ -1,5 +1,9 @@
 # Chatgaiya-ChatApp
-A fullstack Messaging app which have all the basic features for group,private chat and handy features like typing indicator and notification icon.
+A fullstack Messaging app which has all the basic features for a group,private chat and handy features like typing indicator and notification icon.
+User can create unlimited group and private messages.
+
+## Live App link
+![Chatgaiya ChatApp](chatgaiya-chatapp.herokuapp.com)
 
 ## Main Features
 ### Log In
@@ -14,6 +18,7 @@ A fullstack Messaging app which have all the basic features for group,private ch
 ![](https://github.com/mujibultanim/Chatgaiya-ChatApp/blob/main/Demo/typing%20indicator.png)
 
 # Tech Used
+**Language:** Javascript 
 **Client:** React JS
 
 **Server:** Node JS, Express JS
