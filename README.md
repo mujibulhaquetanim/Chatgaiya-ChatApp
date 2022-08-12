@@ -2,9 +2,19 @@
 A fullstack Messaging app which have all the basic features for group,private chat and handy features like typing indicator and notification icon.
 This app is made for Learning purposes not for any serious jobs.
 
-## Demo
+## Main Features
+### Log In
+![](https://github.com/mujibultanim/Chatgaiya-ChatApp/blob/main/Demo/log%20in.png)
+###Registration Page
+![](https://github.com/mujibultanim/Chatgaiya-ChatApp/blob/main/Demo/registration.png)
+### Group chat
+![](https://github.com/mujibultanim/Chatgaiya-ChatApp/blob/main/Demo/groupchat.png)
+### Notification and Search Bar & Private Chat
+![](https://github.com/mujibultanim/Chatgaiya-ChatApp/blob/main/Demo/notification%20and%20search.png)
+### Typing Indicator
+![](https://github.com/mujibultanim/Chatgaiya-ChatApp/blob/main/Demo/typing%20indicator.png)
 
-#Tech Used:
+# Tech Used
 **Client:** React JS
 
 **Server:** Node JS, Express JS
@@ -21,7 +31,8 @@ https://github.com/mujibultanim/Chatgaiya-ChatApp
 cd Chatgaiya-Chatapp
 ```
 **install dependencies:
-```npm install
+```
+npm install
 ```
 then,
 ```
