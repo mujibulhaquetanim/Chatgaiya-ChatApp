@@ -18,7 +18,8 @@ User can create unlimited group and private messages.
 ![](https://github.com/mujibultanim/Chatgaiya-ChatApp/blob/main/Demo/typing%20indicator.png)
 
 # Tech Used
-**Language:** Javascript 
+**Language:** Javascript
+
 **Client:** React JS
 
 **Server:** Node JS, Express JS
@@ -58,6 +59,6 @@ yarn install
 cd ..
 >npm start
 ```
-**Enjoy**
+**Enjoy** :relaxed:
 
 This porject is youtube inspired and made solely for Learning purposes not for any serious job.
