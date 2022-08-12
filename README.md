@@ -3,7 +3,7 @@ A fullstack Messaging app which has all the basic features for a group,private c
 User can create unlimited group and private messages.
 
 ## Live App link
-![Chatgaiya ChatApp](chatgaiya-chatapp.herokuapp.com)
+[Chatgaiya ChatApp](chatgaiya-chatapp.herokuapp.com)
 
 ## Main Features
 ### Log In
