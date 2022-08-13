@@ -6,8 +6,8 @@ User can create unlimited group and private messages. anyway, this project was m
 [Chatgaiya ChatApp](http://chatgaiya-chatapp.herokuapp.com)
 
 <details>
-  <summary>Main Features:</summary>
-  ### Log In
+  <summary>Main Features</summary>
+### Log In
 ![](https://github.com/mujibultanim/Chatgaiya-ChatApp/blob/main/Demo/log%20in.png)
 ### Registration Page
 ![](https://github.com/mujibultanim/Chatgaiya-ChatApp/blob/main/Demo/registration.png)
@@ -17,7 +17,6 @@ User can create unlimited group and private messages. anyway, this project was m
 ![](https://github.com/mujibultanim/Chatgaiya-ChatApp/blob/main/Demo/notification%20and%20search.png)
 ### Typing Indicator
 ![](https://github.com/mujibultanim/Chatgaiya-ChatApp/blob/main/Demo/typing%20indicator.png)
-  
 </details>
 
 ## Tech Used
