@@ -1,9 +1,9 @@
 # Chatgaiya-ChatApp
 A fullstack Messaging app which has all the basic features for a group,private chat and handy features like typing indicator and notification icon.
-User can create unlimited group and private messages.
+User can create unlimited group and private messages. anyway, this project was made for Semester project.
 
 ## Live App link
-[Chatgaiya ChatApp](http://chatgaiya-chatapp.herokuapp.com)
+![Chatgaiya ChatApp](http://chatgaiya-chatapp.herokuapp.com)
 
 ## Main Features
 ### Log In
@@ -18,7 +18,6 @@ User can create unlimited group and private messages.
 ![](https://github.com/mujibultanim/Chatgaiya-ChatApp/blob/main/Demo/typing%20indicator.png)
 
 # Tech Used
-**Language:** Javascript
 
 **Client:** React JS
 
@@ -29,13 +28,16 @@ User can create unlimited group and private messages.
 ## How to run locally
 **As for security reason, it's a common practice that no one upload their crusial credentials and dotenv file.
 So, for using it,create a dotenv file in main directory(chatgaiya-chatapp/) and put essential references like,**
+
 ```
-  PORT=5000
   MONGO_URI=
-  JWT_SECRET=
-  MODE_ENV=
+  PORT=5000
+  JWT_SECRET=mujib71
+  NODE_ENV=production
+  
 ```
-  **after equal sign paste your secret values without any spaces. As of now, you understood that you need to make a mongodb atlas account and a cluster for URI, if you're a beginner then you could use online help**
+ 
+ **after equal sign paste your secret values without any spaces. As of now, you understood that you need to make a mongodb atlas account and a cluster for URI, if you're a beginner then you could use online help**
   
 **Clone the project**
 ```
@@ -49,16 +51,20 @@ cd Chatgaiya-Chatapp
 ```
 npm install
 ```
-**then,**
+
+**Note: If you don't have yarn globally installed then install it and before that, you should have installed node in your machine**
+
 ```
 cd frontend
 yarn install
 ```
+
 **Start the server**
 ```
 cd ..
->npm start
+npm start
 ```
-**Enjoy** :relaxed:
 
-This porject is youtube inspired and made solely for Learning purposes not for any serious job.
+**Enjoy...** :relaxed:
+
+This porject is youtube Tutorials inspired and made solely for Learning purposes not for any serious job.
