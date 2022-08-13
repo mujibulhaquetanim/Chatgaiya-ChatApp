@@ -20,7 +20,7 @@ User can create unlimited group and private messages. anyway, this project was m
   
 </details>
 
-# Tech Used
+## Tech Used
 
 **Client:** React JS
 
