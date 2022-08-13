@@ -1,11 +1,11 @@
 # Chatgaiya-ChatApp
-A fullstack Messaging app which has all the basic features for a group,private chat and handy features like typing indicator and notification icon.
+A fullstack Messaging app which has all the basic features for a group,private chat, handy features like typing indicator and notification icon and encryption.
 User can create unlimited group and private messages. anyway, this project was made for Semester project.
 
 ## Live App link
 [Chatgaiya ChatApp](http://chatgaiya-chatapp.herokuapp.com)
 
-## Main Features Screenshots
+## Main Features In Screenshots
 ### Log In
 ![](https://github.com/mujibultanim/Chatgaiya-ChatApp/blob/main/Demo/log%20in.png)
 ### Registration Page
@@ -27,7 +27,7 @@ User can create unlimited group and private messages. anyway, this project was m
 **Database:** Mongo DB
 
 <details> 
-  <summary>How to run locally</summary>
+  <summary>How to run locally :point_down:</summary>
   
   >open terminal and go to the **Chatgaiya-ChatApp** directory.
 >As for security reason, it's a common practice that no one upload their crusial credentials and dotenv file.
