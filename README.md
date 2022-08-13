@@ -3,7 +3,7 @@ A fullstack Messaging app which has all the basic features for a group,private c
 User can create unlimited group and private messages. anyway, this project was made for Semester project.
 
 ## Live App link
-![Chatgaiya ChatApp](http://chatgaiya-chatapp.herokuapp.com)
+[Chatgaiya ChatApp](http://chatgaiya-chatapp.herokuapp.com)
 
 ## Main Features
 ### Log In
@@ -34,10 +34,9 @@ So, for using it,create a dotenv file in main directory(chatgaiya-chatapp/) and 
   PORT=5000
   JWT_SECRET=mujib71
   NODE_ENV=production
-  
 ```
  
- **after equal sign paste your secret values without any spaces. As of now, you understood that you need to make a mongodb atlas account and a cluster for URI, if you're a beginner then you could use online help**
+ after equal sign paste your secret values without any spaces. As of now, you understood that you need to make a mongodb atlas account and a cluster for URI, if you're a beginner then you could use online help
   
 **Clone the project**
 ```
@@ -60,6 +59,8 @@ yarn install
 ```
 
 **Start the server**
+>just back one step to the main folder
+
 ```
 cd ..
 npm start
