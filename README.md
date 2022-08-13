@@ -26,6 +26,7 @@ User can create unlimited group and private messages. anyway, this project was m
 **Database:** Mongo DB
 
 ## How to run locally
+>open terminal and go to the **Chatgaiya-ChatApp** directory
 **As for security reason, it's a common practice that no one upload their crusial credentials and dotenv file.
 So, for using it,create a dotenv file in main directory(chatgaiya-chatapp/) and put essential references like,**
 
@@ -56,6 +57,10 @@ npm install
 ```
 cd frontend
 yarn install
+```
+>now, build the project for production:
+```
+yarn build
 ```
 
 **Start the server**
