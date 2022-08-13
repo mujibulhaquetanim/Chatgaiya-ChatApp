@@ -78,4 +78,4 @@ npm start
 
 **Enjoy...** :relaxed:
 
-This porject is youtube Tutorials inspired and made solely for Learning purposes not for any serious job.
+This project is youtube Tutorials inspired and made solely for Learning purposes not for any serious job.
